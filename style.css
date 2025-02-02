@@ -88,6 +88,11 @@ body {
 .navbar .logo {
     font-size: 24px;
     font-weight: bold;
+    width: 9.25rem;
+    height: 2.5rem;
+    color: rgb(229, 9, 20);
+    fill: currentColor;
+    display: block;
 }
 
 .navbar nav ul {
@@ -136,7 +141,7 @@ body {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    z-index: -1; /* Send it behind other content */
+    z-index: -1; /* Puts video behind content */
 }
 
 #featured-video {

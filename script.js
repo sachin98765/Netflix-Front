@@ -24,5 +24,6 @@ movieImages.forEach(image => {
 
 document.getElementById('play-btn').addEventListener('click', function() {
     let iframe = document.getElementById('featured-video');
-    iframe.src = iframe.src; // This refreshes the video to play again
+    iframe.src = iframe.src; // Reloads the video
 });
+
