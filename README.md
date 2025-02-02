@@ -2,4 +2,4 @@
 
 Front- Part:
 
-        Live Site is : https://netflix-front-psi.vercel.app/
+        Live Site is : netflix-front-psi.vercel.app
