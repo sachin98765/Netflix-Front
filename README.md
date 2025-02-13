@@ -1,5 +1,3 @@
-
-
 # Netflix-Front
 
 Front-Part: HTML, CSS, JAVASCRIPT
